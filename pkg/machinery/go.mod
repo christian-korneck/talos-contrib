@@ -16,7 +16,7 @@ require (
 	github.com/google/cel-go v0.28.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jsimonetti/rtnetlink/v2 v2.2.1-0.20260602060932-e82ffd7ecc01
-	github.com/mdlayher/ethtool v0.6.0
+	github.com/mdlayher/ethtool v0.6.1
 	github.com/neticdk/go-stdlib v1.0.1
 	github.com/opencontainers/runtime-spec v1.3.0
 	github.com/planetscale/vtprotobuf v0.6.1-0.20250313105119-ba97887b0a25
@@ -24,7 +24,7 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2
 	github.com/siderolabs/crypto v0.6.5
 	github.com/siderolabs/gen v0.8.6
-	github.com/siderolabs/go-api-signature v0.3.12
+	github.com/siderolabs/go-api-signature v0.3.13
 	github.com/siderolabs/go-pointer v1.0.1
 	github.com/siderolabs/net v0.4.0
 	github.com/siderolabs/protoenc v0.2.4
@@ -43,6 +43,7 @@ require (
 	github.com/ProtonMail/go-crypto v1.4.1 // indirect
 	github.com/ProtonMail/go-mime v0.0.0-20230322103455-7d82a3887f2f // indirect
 	github.com/ProtonMail/gopenpgp/v2 v2.10.0 // indirect
+	github.com/ProtonMail/gopenpgp/v3 v3.4.1 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect

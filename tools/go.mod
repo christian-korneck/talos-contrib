@@ -68,7 +68,7 @@ require (
 	cloud.google.com/go/compute/metadata v0.9.0 // indirect
 	cloud.google.com/go/iam v1.11.0 // indirect
 	cloud.google.com/go/monitoring v1.29.0 // indirect
-	cloud.google.com/go/storage v1.62.2 // indirect
+	cloud.google.com/go/storage v1.62.3 // indirect
 	codeberg.org/chavacava/garif v0.2.0 // indirect
 	codeberg.org/polyfloyd/go-errorlint v1.9.0 // indirect
 	connectrpc.com/connect v1.20.0 // indirect
@@ -85,7 +85,7 @@ require (
 	github.com/Antonboom/testifylint v1.6.4 // indirect
 	github.com/BurntSushi/toml v1.6.0 // indirect
 	github.com/ClickHouse/clickhouse-go-linter v1.2.0 // indirect
-	github.com/CycloneDX/cyclonedx-go v0.10.0 // indirect
+	github.com/CycloneDX/cyclonedx-go v0.11.0 // indirect
 	github.com/DataDog/zstd v1.5.7 // indirect
 	github.com/Djarvur/go-err113 v0.1.1 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.32.0 // indirect
@@ -132,10 +132,10 @@ require (
 	github.com/anchore/go-struct-converter v0.1.0 // indirect
 	github.com/anchore/go-sync v0.1.0 // indirect
 	github.com/anchore/go-version v1.2.2-0.20210903204242-51efa5b487c4 // indirect
-	github.com/anchore/grype v0.112.0 // indirect
+	github.com/anchore/grype v0.114.0 // indirect
 	github.com/anchore/packageurl-go v0.2.0 // indirect
-	github.com/anchore/stereoscope v0.1.23 // indirect
-	github.com/anchore/syft v1.44.0 // indirect
+	github.com/anchore/stereoscope v0.2.1 // indirect
+	github.com/anchore/syft v1.45.1 // indirect
 	github.com/andybalholm/brotli v1.2.0 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
@@ -144,26 +144,26 @@ require (
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de // indirect
 	github.com/ashanbrown/forbidigo/v2 v2.3.1 // indirect
 	github.com/ashanbrown/makezero/v2 v2.2.1 // indirect
-	github.com/aws/aws-sdk-go-v2 v1.41.9 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.11 // indirect
-	github.com/aws/aws-sdk-go-v2/config v1.32.20 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.19.19 // indirect
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.25 // indirect
-	github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager v0.2.3 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.25 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.25 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.26 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.304.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.10 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.18 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.25 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.25 // indirect
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.102.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/signin v1.1.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/sso v1.30.19 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.36.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/sts v1.42.3 // indirect
-	github.com/aws/smithy-go v1.26.0 // indirect
+	github.com/aws/aws-sdk-go-v2 v1.41.12 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.13 // indirect
+	github.com/aws/aws-sdk-go-v2/config v1.32.23 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.19.22 // indirect
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.28 // indirect
+	github.com/aws/aws-sdk-go-v2/feature/s3/transfermanager v0.2.6 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.28 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.28 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.4.29 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.305.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.12 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.9.21 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.28 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.19.28 // indirect
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.103.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/signin v1.1.4 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sso v1.31.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.36.5 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sts v1.43.2 // indirect
+	github.com/aws/smithy-go v1.27.1 // indirect
 	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
@@ -232,7 +232,7 @@ require (
 	github.com/deitch/magic v0.0.0-20240306090643-c67ab88f10cb // indirect
 	github.com/denis-tingaikin/go-header v0.5.0 // indirect
 	github.com/dghubble/trie v0.1.0 // indirect
-	github.com/diskfs/go-diskfs v1.7.0 // indirect
+	github.com/diskfs/go-diskfs v1.9.3 // indirect
 	github.com/distribution/reference v0.6.0 // indirect
 	github.com/dlclark/regexp2 v1.12.0 // indirect
 	github.com/dmarkham/enumer v1.6.3 // indirect
@@ -259,7 +259,7 @@ require (
 	github.com/fzipp/gocyclo v0.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.13 // indirect
 	github.com/ghostiam/protogetter v0.3.20 // indirect
-	github.com/github/go-spdx/v2 v2.4.0 // indirect
+	github.com/github/go-spdx/v2 v2.7.0 // indirect
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
 	github.com/glebarez/sqlite v1.11.0 // indirect
 	github.com/go-critic/go-critic v0.14.3 // indirect
@@ -310,14 +310,14 @@ require (
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.16 // indirect
 	github.com/googleapis/gax-go/v2 v2.22.0 // indirect
-	github.com/gookit/color v1.6.0 // indirect
+	github.com/gookit/color v1.6.1 // indirect
 	github.com/gordonklaus/ineffassign v0.2.0 // indirect
 	github.com/gorilla/css v1.0.1 // indirect
 	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
 	github.com/gostaticanalysis/comment v1.5.0 // indirect
 	github.com/gostaticanalysis/forcetypeassert v0.2.0 // indirect
 	github.com/gostaticanalysis/nilerr v0.1.2 // indirect
-	github.com/gpustack/gguf-parser-go v0.24.0 // indirect
+	github.com/gpustack/gguf-parser-go v0.24.1 // indirect
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b // indirect
 	github.com/hashicorp/aws-sdk-go-base/v2 v2.0.0-beta.72 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -339,7 +339,7 @@ require (
 	github.com/invopop/jsonschema v0.14.0 // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99 // indirect
 	github.com/jdx/go-netrc v1.0.0 // indirect
-	github.com/jedib0t/go-pretty/v6 v6.7.8 // indirect
+	github.com/jedib0t/go-pretty/v6 v6.7.10 // indirect
 	github.com/jgautheron/goconst v1.10.0 // indirect
 	github.com/jinzhu/copier v0.4.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
@@ -430,12 +430,12 @@ require (
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.3.1 // indirect
 	github.com/petermattis/goid v0.0.0-20260330135022-df67b199bc81 // indirect
-	github.com/pierrec/lz4/v4 v4.1.25 // indirect
+	github.com/pierrec/lz4/v4 v4.1.26 // indirect
 	github.com/pjbgf/sha1cd v0.6.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkg/profile v1.7.0 // indirect
 	github.com/pkg/xattr v0.4.12 // indirect
-	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
+	github.com/planetscale/vtprotobuf v0.6.1-0.20250313105119-ba97887b0a25 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/prometheus/client_golang v1.23.2 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
@@ -479,13 +479,13 @@ require (
 	github.com/siderolabs/go-pointer v1.0.1 // indirect
 	github.com/siderolabs/go-retry v0.3.3 // indirect
 	github.com/siderolabs/importvet v0.2.0 // indirect
-	github.com/siderolabs/talos/tools/cloud-image-uploader v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/docgen v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/gotagsrewrite v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/labeled-squashfs v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/loglinter v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/sbom-builder v0.0.0-20260602162949-26a25a0736c3 // indirect
-	github.com/siderolabs/talos/tools/structprotogen v0.0.0-20260602162949-26a25a0736c3 // indirect
+	github.com/siderolabs/talos/tools/cloud-image-uploader v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/docgen v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/gotagsrewrite v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/labeled-squashfs v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/loglinter v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/sbom-builder v0.0.0-20260605160515-1d2f1208c02f // indirect
+	github.com/siderolabs/talos/tools/structprotogen v0.0.0-20260605160515-1d2f1208c02f // indirect
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/sivchari/containedctx v1.0.3 // indirect
 	github.com/skeema/knownhosts v1.3.2 // indirect
